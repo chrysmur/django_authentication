@@ -4,8 +4,12 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
 
+*.so
+# virtual environment
+env
+# vscode
+.vscode
 # Distribution / packaging
 .Python
 build/
