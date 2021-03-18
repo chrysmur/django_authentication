@@ -8,7 +8,8 @@ __pycache__/
 *.so
 # virtual environment
 env
-
+# vscode
+.vscode
 # Distribution / packaging
 .Python
 build/
